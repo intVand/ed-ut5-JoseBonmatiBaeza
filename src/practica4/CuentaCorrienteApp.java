@@ -2,7 +2,7 @@ package practica4;
 
 public class CuentaCorrienteApp {
     public static void main(String[] args) {
-        CuentaCorriente Jose = new CuentaCorriente("99999999Q", "Ivan"); //Se crea un objeto de tipo CuentaCorriente
+        CuentaCorriente Jose = new CuentaCorriente("99999998Q", "Ivan"); //Se crea un objeto de tipo CuentaCorriente
         CuentaCorriente Alicia = new CuentaCorriente("99999999A", "Silvia");
 
         Jose.ingresarDinero(50); //Ingresa una cantidad de dinero en una cuenta
